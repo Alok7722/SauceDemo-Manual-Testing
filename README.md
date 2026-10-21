@@ -1,4 +1,4 @@
-# 🧪 SauceDemo – End-to-End Manual Testing & QA Documentation Portfolio
+# 🧪 SauceDemo – End-to-End Manual Testing & QA Documentation 
 
 ![Testing Type](https://img.shields.io/badge/Testing%20Type-Manual%20Testing-blue?style=flat-square)
 ![STLC Lifecycle](https://img.shields.io/badge/STLC-Full%20Lifecycle-success?style=flat-square)
